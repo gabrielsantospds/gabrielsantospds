@@ -13,5 +13,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,java,kotlin,spring&perline=8">
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsantospds&show_icons=true&locale=en&layout=compact" alt="languages-most-used"></p>

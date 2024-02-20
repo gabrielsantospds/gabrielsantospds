@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabrielsantos-55312322a" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin-profile"></a>
+<a href="https://linkedin.com/in/gabrielsantos-55312322a" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin-profile"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

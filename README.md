@@ -4,8 +4,6 @@
   I'm a FullStack Developer with experience building SPA Web applications with Angular and building RESTful APIs with Spring Boot using Java and Kotlin.
 </h3>
 
-- 🔭 I’m currently working on [Algar Telecom](https://www.linkedin.com/company/algar-telecom/mycompany/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-santos-55312322a" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin-profile"></a>
